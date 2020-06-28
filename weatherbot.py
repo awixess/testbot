@@ -9,7 +9,7 @@ config_dict['language'] = 'ru'  # your language here
 
 owm = OWM('241bdb52c8dfd34d672a79b17351fbd9', config_dict)
 
-
+TOKEN = "1386821727:AAGv33z70WEbH30aonmy_7yBCDkc9gVYEG4"
 
 bot = telebot.TeleBot(TOKEN)
 
