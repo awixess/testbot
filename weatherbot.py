@@ -29,4 +29,3 @@ def send_echo(message):
 		"Температура за окном: " + str(temp) )
 
 bot.polling()	
-heroku login
